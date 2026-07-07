@@ -14,6 +14,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/arifsheikh007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifsheikh007/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/arifsheikh007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1929-concatenation-of-array](https://github.com/arifsheikh007/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/arifsheikh007/leetcode/tree/master/0441-arranging-coins) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/arifsheikh007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
 | ------- |

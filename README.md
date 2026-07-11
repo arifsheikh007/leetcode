@@ -19,6 +19,7 @@
 | [1512-number-of-good-pairs](https://github.com/arifsheikh007/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/arifsheikh007/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arifsheikh007/leetcode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/arifsheikh007/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
 | [1768-merge-strings-alternately](https://github.com/arifsheikh007/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arifsheikh007/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/arifsheikh007/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |

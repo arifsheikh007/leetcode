@@ -14,6 +14,7 @@
 | [0162-find-peak-element](https://github.com/arifsheikh007/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arifsheikh007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifsheikh007/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arifsheikh007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -33,6 +34,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/arifsheikh007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/arifsheikh007/leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/arifsheikh007/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifsheikh007/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -60,6 +62,7 @@
 | [0088-merge-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/arifsheikh007/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/arifsheikh007/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
@@ -96,6 +99,7 @@
 | [0015-3sum](https://github.com/arifsheikh007/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Interactive
 |  |
 | ------- |
@@ -104,6 +108,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/arifsheikh007/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |

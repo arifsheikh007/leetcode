@@ -47,6 +47,7 @@
 | [0058-length-of-last-word](https://github.com/arifsheikh007/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arifsheikh007/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
 | [1768-merge-strings-alternately](https://github.com/arifsheikh007/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arifsheikh007/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/arifsheikh007/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
@@ -121,9 +123,14 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/arifsheikh007/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/arifsheikh007/leetcode/tree/master/0724-find-pivot-index) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

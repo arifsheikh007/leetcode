@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/arifsheikh007/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifsheikh007/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arifsheikh007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/arifsheikh007/leetcode/tree/master/1470-shuffle-the-array) |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/arifsheikh007/leetcode/tree/master/1512-number-of-good-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/arifsheikh007/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

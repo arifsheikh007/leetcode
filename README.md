@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arifsheikh007/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arifsheikh007/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/arifsheikh007/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arifsheikh007/leetcode/tree/master/0125-valid-palindrome) |
@@ -86,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arifsheikh007/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/arifsheikh007/leetcode/tree/master/0441-arranging-coins) |
@@ -115,6 +117,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arifsheikh007/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |

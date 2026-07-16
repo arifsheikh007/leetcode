@@ -49,6 +49,7 @@
 | [0125-valid-palindrome](https://github.com/arifsheikh007/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/arifsheikh007/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/arifsheikh007/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arifsheikh007/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -69,6 +70,7 @@
 | [0125-valid-palindrome](https://github.com/arifsheikh007/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/arifsheikh007/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arifsheikh007/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/arifsheikh007/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/arifsheikh007/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

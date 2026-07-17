@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arifsheikh007/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/arifsheikh007/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/arifsheikh007/leetcode/tree/master/0441-arranging-coins) |
@@ -145,6 +146,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arifsheikh007/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/arifsheikh007/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/arifsheikh007/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -154,5 +156,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arifsheikh007/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/arifsheikh007/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

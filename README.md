@@ -50,6 +50,7 @@
 | [0058-length-of-last-word](https://github.com/arifsheikh007/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arifsheikh007/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/arifsheikh007/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
@@ -72,6 +73,7 @@
 | [0125-valid-palindrome](https://github.com/arifsheikh007/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arifsheikh007/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/arifsheikh007/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arifsheikh007/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |

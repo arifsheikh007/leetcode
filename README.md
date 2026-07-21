@@ -19,6 +19,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/arifsheikh007/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifsheikh007/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0881-boats-to-save-people](https://github.com/arifsheikh007/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arifsheikh007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/arifsheikh007/leetcode/tree/master/1470-shuffle-the-array) |
@@ -79,6 +80,7 @@
 | [0392-is-subsequence](https://github.com/arifsheikh007/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/arifsheikh007/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/arifsheikh007/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/arifsheikh007/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/arifsheikh007/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
@@ -122,6 +124,7 @@
 | [0088-merge-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/arifsheikh007/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Interactive
 |  |
@@ -174,4 +177,5 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/arifsheikh007/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/arifsheikh007/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

@@ -173,6 +173,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/arifsheikh007/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/arifsheikh007/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/arifsheikh007/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/arifsheikh007/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/arifsheikh007/leetcode/tree/master/0509-fibonacci-number) |
@@ -190,4 +191,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arifsheikh007/leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

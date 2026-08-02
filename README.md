@@ -56,6 +56,7 @@
 | [0125-valid-palindrome](https://github.com/arifsheikh007/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/arifsheikh007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/arifsheikh007/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
@@ -152,6 +153,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/arifsheikh007/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/arifsheikh007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/arifsheikh007/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
@@ -162,6 +164,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/arifsheikh007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/arifsheikh007/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum

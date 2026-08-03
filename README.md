@@ -20,6 +20,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/arifsheikh007/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifsheikh007/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/arifsheikh007/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/arifsheikh007/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arifsheikh007/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -121,6 +122,7 @@
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/arifsheikh007/leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/arifsheikh007/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/arifsheikh007/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arifsheikh007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/arifsheikh007/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Matrix
@@ -181,6 +183,7 @@
 | [0070-climbing-stairs](https://github.com/arifsheikh007/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/arifsheikh007/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/arifsheikh007/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/arifsheikh007/leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -213,4 +216,16 @@
 | [0206-reverse-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arifsheikh007/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arifsheikh007/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arifsheikh007/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

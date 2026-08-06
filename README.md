@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/arifsheikh007/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/arifsheikh007/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/arifsheikh007/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arifsheikh007/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0088-merge-sorted-array) |
@@ -53,6 +54,7 @@
 | [0013-roman-to-integer](https://github.com/arifsheikh007/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arifsheikh007/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/arifsheikh007/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/arifsheikh007/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/arifsheikh007/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/arifsheikh007/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/arifsheikh007/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/arifsheikh007/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arifsheikh007/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/arifsheikh007/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/arifsheikh007/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arifsheikh007/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arifsheikh007/leetcode/tree/master/0202-happy-number) |

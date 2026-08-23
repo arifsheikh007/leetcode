@@ -344,4 +344,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arifsheikh007/leetcode/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/arifsheikh007/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

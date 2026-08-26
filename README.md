@@ -126,6 +126,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/arifsheikh007/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/arifsheikh007/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/arifsheikh007/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arifsheikh007/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -304,6 +305,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/arifsheikh007/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/arifsheikh007/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arifsheikh007/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Sliding Window

@@ -24,6 +24,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/arifsheikh007/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/arifsheikh007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/arifsheikh007/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/arifsheikh007/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arifsheikh007/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +129,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/arifsheikh007/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/arifsheikh007/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/arifsheikh007/leetcode/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arifsheikh007/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -200,6 +202,7 @@
 | [0383-ransom-note](https://github.com/arifsheikh007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/arifsheikh007/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/arifsheikh007/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arifsheikh007/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/arifsheikh007/leetcode/tree/master/0567-permutation-in-string) |
@@ -360,4 +363,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arifsheikh007/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/arifsheikh007/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arifsheikh007/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/arifsheikh007/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arifsheikh007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/arifsheikh007/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arifsheikh007/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/arifsheikh007/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/arifsheikh007/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arifsheikh007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/arifsheikh007/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/arifsheikh007/leetcode/tree/master/0496-next-greater-element-i) |
@@ -149,6 +151,7 @@
 | [0013-roman-to-integer](https://github.com/arifsheikh007/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/arifsheikh007/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/arifsheikh007/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arifsheikh007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/arifsheikh007/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/arifsheikh007/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |

@@ -34,6 +34,7 @@
 | [0724-find-pivot-index](https://github.com/arifsheikh007/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/arifsheikh007/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifsheikh007/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/arifsheikh007/leetcode/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/arifsheikh007/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/arifsheikh007/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -136,6 +137,7 @@
 | [0234-palindrome-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/arifsheikh007/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arifsheikh007/leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/arifsheikh007/leetcode/tree/master/0853-car-fleet) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arifsheikh007/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -185,6 +187,7 @@
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/arifsheikh007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0853-car-fleet](https://github.com/arifsheikh007/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/arifsheikh007/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Interactive
@@ -377,6 +380,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/arifsheikh007/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/arifsheikh007/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arifsheikh007/leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/arifsheikh007/leetcode/tree/master/0853-car-fleet) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |

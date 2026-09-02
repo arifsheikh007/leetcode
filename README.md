@@ -92,6 +92,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/arifsheikh007/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/arifsheikh007/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/arifsheikh007/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/arifsheikh007/leetcode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/arifsheikh007/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arifsheikh007/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arifsheikh007/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -124,6 +125,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/arifsheikh007/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/arifsheikh007/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/arifsheikh007/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/arifsheikh007/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/arifsheikh007/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/arifsheikh007/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/arifsheikh007/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +143,7 @@
 | [0496-next-greater-element-i](https://github.com/arifsheikh007/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/arifsheikh007/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/arifsheikh007/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/arifsheikh007/leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/arifsheikh007/leetcode/tree/master/0853-car-fleet) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arifsheikh007/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -148,6 +151,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/arifsheikh007/leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/arifsheikh007/leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/arifsheikh007/leetcode/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arifsheikh007/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/arifsheikh007/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arifsheikh007/leetcode/tree/master/1929-concatenation-of-array) |

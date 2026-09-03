@@ -145,6 +145,7 @@
 | [0739-daily-temperatures](https://github.com/arifsheikh007/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/arifsheikh007/leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/arifsheikh007/leetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/arifsheikh007/leetcode/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/arifsheikh007/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -330,6 +331,7 @@
 | [0155-min-stack](https://github.com/arifsheikh007/leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/arifsheikh007/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arifsheikh007/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0901-online-stock-span](https://github.com/arifsheikh007/leetcode/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -390,8 +392,13 @@
 | [0496-next-greater-element-i](https://github.com/arifsheikh007/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/arifsheikh007/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/arifsheikh007/leetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/arifsheikh007/leetcode/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/arifsheikh007/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/arifsheikh007/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

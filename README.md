@@ -83,6 +83,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/arifsheikh007/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/arifsheikh007/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/arifsheikh007/leetcode/tree/master/0299-bulls-and-cows) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/arifsheikh007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -218,6 +219,7 @@
 | [0205-isomorphic-strings](https://github.com/arifsheikh007/leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/arifsheikh007/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/arifsheikh007/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/arifsheikh007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arifsheikh007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/arifsheikh007/leetcode/tree/master/0383-ransom-note) |
@@ -236,6 +238,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/arifsheikh007/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/arifsheikh007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/arifsheikh007/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arifsheikh007/leetcode/tree/master/0387-first-unique-character-in-a-string) |

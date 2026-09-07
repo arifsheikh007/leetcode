@@ -235,6 +235,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/arifsheikh007/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/arifsheikh007/leetcode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/arifsheikh007/leetcode/tree/master/0401-binary-watch) |
 ## Counting
 |  |
 | ------- |
@@ -407,4 +408,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/arifsheikh007/leetcode/tree/master/0901-online-stock-span) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/arifsheikh007/leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
